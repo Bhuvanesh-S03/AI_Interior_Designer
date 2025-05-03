@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687236307333",
+    "project_id": "ai-interior-design-7ba4d",
+    "storage_bucket": "ai-interior-design-7ba4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687236307333:android:45456d12c60ce8e32f0cec",
+        "android_client_info": {
+          "package_name": "com.example.ai_designer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeG_EKYU05Hv_bteZI8iPmz-Cv10Fk2M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
